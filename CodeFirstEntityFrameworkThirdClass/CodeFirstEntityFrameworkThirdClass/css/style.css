@@ -1,0 +1,29 @@
+﻿body {
+}
+.wrapper {
+    width:400px;
+    margin:0px auto;
+    padding-top:80px;
+    padding-bottom: 70px;
+}
+
+    .auto-style1 {
+            width: 600px;
+        }
+        .auto-style2 {
+            height: 23px;
+        }
+        .auto-style3 {
+            width: 174px;
+        }
+        .auto-style4 {
+            height: 23px;
+            width: 174px;
+        }
+        .auto-style5 {
+            width: 174px;
+            height: 26px;
+        }
+        .auto-style6 {
+            height: 26px;
+        }

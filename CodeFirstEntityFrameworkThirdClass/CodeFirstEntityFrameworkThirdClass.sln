@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstEntityFrameworkThirdClass", "CodeFirstEntityFrameworkThirdClass\CodeFirstEntityFrameworkThirdClass.csproj", "{672951E9-2DC0-4E8A-AA74-B50639DADDB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{CD0FFBBE-3F12-4C2B-9FF1-A2A1E28DFAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{4A0E4A83-A74F-4E01-94FE-22AB3FF07E32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{672951E9-2DC0-4E8A-AA74-B50639DADDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672951E9-2DC0-4E8A-AA74-B50639DADDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672951E9-2DC0-4E8A-AA74-B50639DADDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672951E9-2DC0-4E8A-AA74-B50639DADDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD0FFBBE-3F12-4C2B-9FF1-A2A1E28DFAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0FFBBE-3F12-4C2B-9FF1-A2A1E28DFAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0FFBBE-3F12-4C2B-9FF1-A2A1E28DFAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0FFBBE-3F12-4C2B-9FF1-A2A1E28DFAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0E4A83-A74F-4E01-94FE-22AB3FF07E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0E4A83-A74F-4E01-94FE-22AB3FF07E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0E4A83-A74F-4E01-94FE-22AB3FF07E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0E4A83-A74F-4E01-94FE-22AB3FF07E32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
